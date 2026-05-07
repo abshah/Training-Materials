@@ -10,3 +10,5 @@ Gemfile.lock
 .ipynb_checkpoints
 .claude/
 .cursor/
+.worktrees/
+docs/superpowers/
